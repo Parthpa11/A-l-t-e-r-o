@@ -1,5 +1,5 @@
-<h3 align="right">
-<img align="center" width=""100%" src="banner.png"alt="error" />
+<h3 align="center">
+<img width=""100%" src="banner.png"alt="error" />
 </h3>
 
 <img align="right" src="https://cdn.dribbble.com/users/241205/screenshots/7917764/media/64034d7b5c9026d590509338c3afdd00.png?compress=1&resize=400x300" alt="error" />
