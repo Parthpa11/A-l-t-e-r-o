@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **AL ML DS DL**
 
-- 📫 How to reach me **venonikadarksider@gmail.com**
+- 📫 How to reach me **alteromiller@gmail.com**
 
 - ⚡ Fun fact **I can learn anything fast**
 
